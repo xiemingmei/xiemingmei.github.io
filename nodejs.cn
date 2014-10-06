@@ -42,12 +42,23 @@
 	</div>
 <div id="md" style="display: none;">
 <!-- markdown -->
-
+==test text !==
+test text !
+========
+test text !
+-----------
+test text !
 <!-- markdown end -->
 </div>
 <div class="entry" id="main">
 <!-- content -->
+<p>==test text !==</p>
 
+<h1 id="testtext">test text !</h1>
+
+<h2 id="testtext">test text !</h2>
+
+<p>test text !</p>
 <!-- content end -->
 </div>
 <br>
